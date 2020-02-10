@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- 映射文件中标签的id值要和dao层接口中的方法名相同 -->
+<mapper namespace="com.bw.dao.BeneficiaryDao">
+	
+</mapper>
